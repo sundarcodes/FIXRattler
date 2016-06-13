@@ -1,0 +1,7 @@
+export LT_INPUT_FILES_PATH=$HOME/FIXRattler/inputfiles
+export LT_SOURCE_FILES_PATH=$HOME/FIXRattler/sourcecode
+export LT_OUTPUT_FILES_PATH=$HOME/FIXRattler/outputfiles
+export LT_FIX_LOG_FILES_PATH=$HOME/FIXRattler/logs
+
+
+export PATH=$PATH:$LT_SOURCE_FILES_PATH
